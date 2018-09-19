@@ -1,3 +1,14 @@
+/**
+ * Autor : Emilian Ossowski
+ * Klasa ze szczegółami zegaru
+ *
+ *
+ *  * Dodawanie zdefiniowanych szczzegółów zegara
+ *  * **/
+
+
+
+
 public class Pudel extends Zegar {
     Pudel(){
         about = "Pudel";

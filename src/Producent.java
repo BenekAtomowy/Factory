@@ -1,3 +1,10 @@
+/**
+ * Autor : Emilian Ossowski
+ * Obiekt produkujący zegary
+ *
+ *
+ *
+ *  **/
 
 
 public class Producent {

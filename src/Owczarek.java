@@ -1,3 +1,13 @@
+/**
+ * Autor : Emilian Ossowski
+ * Klasa ze szczegółami zegaru
+ *
+ *
+ *  * Dodawanie zdefiniowanych szczzegółów zegara
+ *  * **/
+
+
+
 public class Owczarek extends Zegar {
     Owczarek(){
         about = "Owczarek";

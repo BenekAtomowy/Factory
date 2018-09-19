@@ -1,3 +1,13 @@
+
+/**
+ * Autor : Emilian Ossowski
+ * Implementacja wzorca Factory
+ *
+ * Tworzone obiekty są null, wyświetlają tylko odpowiednie metody w odpowiednich miejsch
+ * Producent produkuje zegar i zwraca go jako null
+ * **/
+
+
 public class Main {
     public static void main(String[]args){
 

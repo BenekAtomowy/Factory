@@ -1,3 +1,10 @@
+/**
+ * Autor : Emilian Ossowski
+ * Klasa ze szczegółami zegaru
+ *
+ * Dodawanie zdefiniowanych szczzegółów zegara
+ * **/
+
 public class Spaniel extends Zegar{
 
     public Spaniel(){
